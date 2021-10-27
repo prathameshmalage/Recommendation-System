@@ -2,3 +2,4 @@
 This repository is for python project group 10
 # Resources
 Spotify Api - https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-audio-features
+Dataset - https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge
